@@ -1,0 +1,23 @@
+token: ""
+path: ['/osnova85/85-1.d/']
+minerName: 4-4,5-5
+apiKey: 950554c1-2786-4caa-9c8b-dc8461019dd5
+cachePath: ""
+deviceId: ""
+extraParams: {}
+log:
+  lv: info
+  path: ./log/
+  name: miner.log
+url:
+  info: ""
+  submit: ""
+  line: ""
+  ws: ""
+  proxy: ""
+scanPath: true
+scanMinute: 2
+debug: ""
+language: en
+line: jp
+multithreadingLoad: false
